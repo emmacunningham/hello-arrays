@@ -64,8 +64,50 @@ var todos = [
 
 $(document).ready(pageReady);
 
+$("#assigned-to").click(function() {
+  clearTodos();
+  sortByAssignedTo();
+
+  todos.forEach(function(todo, index) {
+    addTodoElement(todo);
+  });
+});
+
+$("#priority").click(function() {
+  clearTodos();
+  sortByPriority();
+
+  todos.forEach(function(todo, index) {
+    addTodoElement(todo);
+  });
+});
+
+$("#due-date").click(function() {
+  clearTodos();
+  sortByDueDate();
+
+  todos.forEach(function(todo, index) {
+    addTodoElement(todo);
+  });
+
+});
+
 function pageReady() {
 
+
+
+
+}
+
+function sortByAssignedTo() {
+
+}
+
+function sortByPriority() {
+
+}
+
+function sortByDueDate() {
 
 }
 
