@@ -4,61 +4,61 @@ var todos = [
     assignedTo: "Emma Cunningham",
     task: "Take out garbage",
     priority: 1,
-    dueDate: "Saturday"
+    dueDate: "Wednesday"
   },
   {
     assignedTo: "Daniela Aramayo",
     task: "Run laundry",
     priority: 2,
-    dueDate: "Sunday"
+    dueDate: "Monday"
   },
   {
     assignedTo: "Hans Vermy",
     task: "Fold laundry",
     priority: 3,
-    dueDate: "Sunday"
+    dueDate: "Thursday"
   },
   {
     assignedTo: "Hans Vermy",
     task: "Run dishwasher",
     priority: 2,
-    dueDate: "Monday"
+    dueDate: "Friday"
   },
   {
     assignedTo: "Daniela Aramayo",
     task: "Put away dishes",
     priority: 3,
-    dueDate: "Monday"
+    dueDate: "Tuesday"
   },
   {
     assignedTo: "Emma Cunningham",
     task: "Pay rent",
     priority: 1,
-    dueDate: "Saturday"
+    dueDate: "Friday"
   },
   {
     assignedTo: "Emma Cunningham",
     task: "Grocery shopping",
     priority: 3,
-    dueDate: "Sunday"
+    dueDate: "Wednesday"
   },
   {
     assignedTo: "Emma Cunningham",
     task: "Vacuum living room",
     priority: 1,
-    dueDate: "Sunday"
+    dueDate: "Monday"
   },
   {
     assignedTo: "Hans Vermy",
     task: "Clean bathroom",
     priority: 2,
-    dueDate: "Monday"
+    dueDate: "Tuesday"
   },
   {
     assignedTo: "Daniela Aramayo",
     task: "Clean refridgerator",
     priority: 3,
-    dueDate: "Monday"
+    dueDate: "Thursday"
   }
 ];
 
